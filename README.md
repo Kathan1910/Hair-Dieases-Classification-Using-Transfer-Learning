@@ -6,6 +6,12 @@ This repository contains the implementation of a machine learning project aimed 
 ## Project Description
 The core of this project is a fine-tuned InceptionV3 model, a popular CNN architecture that has shown remarkable performance in image classification tasks. The model has been trained on a curated dataset that includes a variety of hair disease images. The goal is to classify an input image into one of several predefined categories of hair diseases.
 
+## Dataset
+The model was trained on a dataset obtained from Kaggle. The dataset comprises various images of hair diseases, which have been classified into several categories. You can access and download the dataset through the following link:
+
+[Hair Diseases Dataset on Kaggle](https://www.kaggle.com/datasets/sundarannamalai/hair-diseases)
+
+
 ## Technologies Used
 This project utilizes several technologies listed below:
 - **Python**: The primary programming language used for both the machine learning model and the web application.
