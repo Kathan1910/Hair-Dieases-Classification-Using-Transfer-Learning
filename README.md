@@ -44,4 +44,7 @@ The model was trained using a split of training, validation, and test sets. Deta
 ## Prediction Results
 After running the web app and uploading an image, you will receive a prediction result like this:
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+<img src="demo/1.png" alt="workflow" width="70%">
+
+<img src="demo/2.png" alt="workflow" width="70%">
+
