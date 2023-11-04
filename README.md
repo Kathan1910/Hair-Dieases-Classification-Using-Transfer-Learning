@@ -9,7 +9,7 @@ The core of this project is a fine-tuned InceptionV3 model, a popular CNN archit
 ## Dataset
 The model was trained on a dataset obtained from Kaggle. The dataset comprises various images of hair diseases, which have been classified into several categories. You can access and download the dataset through the following link:
 
-[Hair Diseases Dataset on Kaggle](https://www.kaggle.com/datasets/sundarannamalai/hair-diseases)
+[Hair Diseases Dataset](https://www.kaggle.com/datasets/sundarannamalai/hair-diseases)
 
 
 ## Technologies Used
